@@ -43,7 +43,7 @@ Instructions to run the projectRequirements
 
 Note for windows user : install gitbash and proceed with same instruction as linux.
 
-step 1 : $ git clone https://github.com/Dineshvvelu/EARTHQUAKE-PREDICTION-MODEL-USING-PYTHON/edit/main/README.md
+step 1 : $ git clone https://github.com/AkashBabu1/Earthquake-prediction-analysis-using-python-
 
 step 2 : $ cd Realtime-Earthquake-forecasting
 
